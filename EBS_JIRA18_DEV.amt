@@ -1,1 +1,2 @@
 dagfileName=dags/EBSDataLoadSchedule.py
+requirements_file=requirements/EDWRequirements.txt
